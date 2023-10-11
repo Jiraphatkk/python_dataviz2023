@@ -1,5 +1,5 @@
 ## SC663401 Basic Programming for Data Science and Data Visualization
->จิรภัทร กาญจนวนา 633020368-1
+>จิรภัทร กาญจนวนา 633020368-1 ชื่อกลุ่ม วันนี้เรียนห้องไหน!?
 ----------------------------------
 Python & Markdown
 ## Grading
